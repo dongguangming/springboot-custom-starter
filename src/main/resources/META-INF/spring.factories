@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.dongguangming.autoconfigure.CustomAutoConfiguration,\
+com.dongguangming.autoconfigure.LogServiceAutoConfiguration
